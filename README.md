@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# SOON-Testnet
-=======
 # SOON-Testnet
 SOON is an infrastructure that connects the EVM (Ethereum Virutal Machine) chain with that of SVM (Solana Virtual Machine). This application will help you to perform transactions smoothly in programmatic way
 
-# Prerequisites
+## Prerequisites
 
 - **Node.js** (v18.20.3)
 - **npm** (v6+)
 
-# Installing Node.js and npm (if not already installed)
+## Installing Node.js and npm (if not already installed)
 
 If you don't have Node.js and npm installed, follow these steps:
 
@@ -29,7 +26,7 @@ If you don't have Node.js and npm installed, follow these steps:
    node -v
    npm -v
 
-# Installing Instructions
+## Installing Instructions
 
 1. **Clone Reporitory**
    ```bash
@@ -46,4 +43,3 @@ If you don't have Node.js and npm installed, follow these steps:
 4. **Start using it**
    ```bash
    node mainScript.js
->>>>>>> a92a3e7 (Initial commit of SOON Testnet project)
